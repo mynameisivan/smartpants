@@ -1,7 +1,7 @@
-Smartpants
+#Smartpants
 ==========
 
-INF 241 Project
+###INF 241 Project
 
 app.js is the main program;
 
